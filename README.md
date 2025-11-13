@@ -4,7 +4,7 @@
   <b>Nome:</b> Rafael Fernando dos Reis Mecabô <br>
   <b>Apelido:</b> Ferreis
 </h2>
-    <div align="left">https://github.com/ferreis/ferreis/blob/main/README.md
+    <div align="left">
       <h2 align="center"> Tecnologias e Ferramentas </h2>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40"
         height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"
