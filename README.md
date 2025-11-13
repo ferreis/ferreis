@@ -24,9 +24,6 @@
         height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="40" height="40" />
-      <h2 align="justify">Rede social</h2>  
-        <img href="https://www.linkedin.com/in/rafaferreis/" src="https://github.com/ferreis/ferreis/assets/7143672/fa6f1eb6-0bd3-4b44-897c-33da6ef46cd3" width="40">
-        <img href="https://www.instagram.com/rafaelferreis/" src="https://github.com/ferreis/ferreis/assets/7143672/e8b939e1-04cc-4728-b9ec-dc976d218dce" width="40">
     <h2> Sobre </h2>
       <img width="250px" align="left" max-width="100%" src="https://github.com/ferreis/ferreis/assets/7143672/8632175c-6ca7-4ad7-90dd-94f885b809e8">
       <img width="300px" align="right" max-width="100%" src="https://github.com/ferreis/ferreis/assets/7143672/e7a256aa-9b15-4bcc-bccc-89bbda416aae"/>
