@@ -4,7 +4,7 @@
   <b>Nome:</b> Rafael Fernando dos Reis Mecabô <br>
   <b>Apelido:</b> Ferreis
 </h2>
-    <div align="left">
+    <div align="left">https://github.com/ferreis/ferreis/blob/main/README.md
       <h2 align="center"> Tecnologias e Ferramentas </h2>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40"
         height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"
@@ -35,8 +35,4 @@
       <p align="justify">Meu objetivo é trilhar o caminho para me tornar um desenvolvedor de excelência, contribuindo assim para a inovação e o crescimento contínuo do setor de tecnologia. Estou sempre aberto a novas oportunidades e desafios que me permitam expandir meus horizontes e impactar positivamente o
     mundo da tecnologia.</p>
   </div>
-</div>
-  <a href="https://github.com/ferreis">
-    <img loading="lazy" height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreis&layout=compact&langs_count=7&theme=dracula" />
 </div>
