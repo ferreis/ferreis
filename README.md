@@ -5,25 +5,6 @@
   <b>Apelido:</b> Ferreis
 </h2>
     <div align="left">
-      <h2 align="center"> Tecnologias e Ferramentas </h2>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40"
-        height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"
-        width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"
-        height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40"
-        height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"
-        height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="40"
-        height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-plain.svg" width="40"
-        height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="40" height="40" />
     <h2> Sobre </h2>
       <img width="250px" align="left" max-width="100%" src="https://github.com/ferreis/ferreis/assets/7143672/8632175c-6ca7-4ad7-90dd-94f885b809e8">
       <img width="300px" align="right" max-width="100%" src="https://github.com/ferreis/ferreis/assets/7143672/e7a256aa-9b15-4bcc-bccc-89bbda416aae"/>
