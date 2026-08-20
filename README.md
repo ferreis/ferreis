@@ -14,36 +14,83 @@
 
 I'm a software developer and Computer Science student interested in building reliable, maintainable, and useful software.
 
-I enjoy working on projects involving **software architecture**, **mobile development**, **multi-agent systems**, **artificial intelligence**, and **developer tooling**. I also like exploring how different technologies can be combined to solve real-world problems.
+I enjoy working across different areas of software development, from web and mobile applications to artificial intelligence, operating-system concepts, developer tooling, and multi-agent systems.
 
-- Focused on writing clean and maintainable code
-- Interested in software architecture and system design
-- Exploring AI and intelligent systems
-- Building projects to learn through practical experimentation
-- Comfortable working in Linux-based development environments
+- Focused on clean, maintainable, and reusable code
+- Foundational knowledge of **software architecture and system design**
+- Foundational knowledge of **data security and secure software development**
+- Interested in artificial intelligence and intelligent systems
+- Comfortable working with Linux-based development environments
+- Constantly exploring new technologies through practical projects
 
-## Technologies
+## Tech stack
+
+### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,c,git,linux" alt="Java, Dart, Flutter, C, Git and Linux" />
+  <img src="https://skillicons.dev/icons?i=php,python,java,js,dart,c,cpp" alt="PHP, Python, Java, JavaScript, Dart, C and C++" />
 </p>
+
+### Web & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,symfony,nodejs,vite,html,css" alt="Vue.js, Symfony, Node.js, Vite, HTML and CSS" />
+</p>
+
+### Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart" />
+</p>
+
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,linux" alt="PostgreSQL, Docker, Git and Linux" />
+</p>
+
+## Areas of knowledge
+
+- Software architecture and system design
+- Data security fundamentals
+- Web application development
+- REST API development and integration
+- Database modeling and relational databases
+- Mobile application development
+- Artificial intelligence and computer vision
+- Data structures and algorithms
+- Operating-system concepts
+- Multi-agent systems
 
 ## Featured public projects
 
+### [AI Commit](https://github.com/ferreis/ai-commit)
+A **VS Code extension** that generates Brazilian Portuguese Conventional Commit messages from Git changes, with support for **Ollama, OpenRouter, OpenCode, and Codex CLI**.
+
+### [Photo Match FaceNet](https://github.com/ferreis/Univali_Tb3_Inteligencia_Artificial_2)
+A local **Python** application for facial comparison using **MTCNN, FaceNet, TensorFlow, and OpenCV**, comparing a selfie against a document photo.
+
 ### [AgentColony](https://github.com/ferreis/AgentColony)
-A multi-agent colony simulation written in **Java**, using **JADE** for agent communication and coordination.
+A multi-agent colony simulation written in **Java**, using **JADE** for agent communication, coordination, shared resources, and simulation behavior.
 
 ### [Paranormal RPG Sheet](https://github.com/ferreis/paranormal-rpg-sheet-flutter)
-An offline RPG character sheet application built with **Flutter** and **Dart**.
+An offline RPG character sheet application built with **Flutter** and **Dart**, including local data handling and PDF-related features.
+
+### [Virtual File System with B-Tree](https://github.com/ferreis/Univali_Tb3_SO_SistemaDeArquivos)
+A simplified virtual file system implemented in **C**, using a **B-Tree** to organize files and directories and simulate common filesystem operations.
 
 ### [Compiler Project](https://github.com/ferreis/Univali_Compilador)
 A **Java** project focused on compiler concepts and implementation.
 
-## GitHub activity
+## GitHub overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ferreis&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ferreis GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreis&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferreis&theme=transparent" alt="Ferreis GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferreis&theme=transparent" alt="Repositories per language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferreis&theme=transparent" alt="Most used commit languages" />
 </p>
 
 ---
