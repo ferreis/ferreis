@@ -64,6 +64,9 @@ I enjoy working across different areas of software development, from web and mob
 
 ## Featured public projects
 
+### [Pasi Mandarim](https://github.com/ferreis/PasiMandarim)
+A free and open-source **Brazilian Portuguese learning tool for Mandarin pronunciation**, focused on **Pinyin, initials, finals, tones, and listening perception**. Built with **Vue 3, Vite, and TypeScript**, with browser-based exercises, human-audio support, pronunciation guidance, and Playwright E2E tests.
+
 ### [AI Commit](https://github.com/ferreis/ai-commit)
 A **VS Code extension** that generates Brazilian Portuguese Conventional Commit messages from Git changes, with support for **Ollama, OpenRouter, OpenCode, and Codex CLI**.
 
