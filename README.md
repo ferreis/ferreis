@@ -31,37 +31,55 @@ My work and projects span full-stack web development, backend APIs, authenticati
 
 ## Featured projects
 
-Real public repositories, with source code and documentation you can explore.
+A selection of public repositories covering software architecture, product development, AI, security, and developer tooling.
 
-### [OctoFlow](https://github.com/ferreis/OctoFlow) · Full-stack architecture & security
+### [NexoLab](https://github.com/ferreis/NexoLab) · Visual database modeling & frontend engineering
 
-Modular application combining work organization, GitHub integrations, and personal finance features. Its architecture connects a **Vue 3 host and remote frontend via Module Federation** to a **Symfony API**, with **PostgreSQL, Redis, and Docker Compose**.
+Visual PostgreSQL/Supabase schema modeling tool with table and column editing, **ER diagrams**, relationship maps, SQL import, checks, composite uniqueness, and export options. Built with attention to state management, data-model consistency, and an interactive interface.
 
-**Engineering highlights:** JWT-based sessions, rotating refresh tokens, Argon2id password hashing, Google OAuth, CSRF protection, and automated test tooling.
+**Stack:** Vue 3 · Pinia · Vite · Mermaid · JavaScript · Playwright
 
-**Stack:** Vue 3 · TypeScript/JavaScript · Pinia · Symfony · PHP · PostgreSQL · Redis · Docker · Nginx
+### [Boilerplate Projects](https://github.com/ferreis/Boilerplate_Projects) · Cross-language backend architecture
 
-### [AI Commit](https://github.com/ferreis/ai-commit) · Developer tools & AI
+Reusable web application starter with **Vue/Vite, PostgreSQL, Nginx, and Docker Compose**, offering a selectable backend: **FastAPI (Python), Drogon (C++), Symfony (PHP), or Hyper (Rust)**. Shared API contracts and environment-specific infrastructure help compare architectures across ecosystems.
 
-A **VS Code extension** that generates Brazilian Portuguese **Conventional Commit** messages from Git changes. Supports local Ollama models and configurable providers, with diagnostics, cancellation, and connection checks.
+**Stack:** Python · FastAPI · C++ · Drogon · PHP · Symfony · Rust · Hyper · Docker · PostgreSQL
 
-**Engineering highlights:** editor integration, Git diff handling, local and remote model workflows, and secure configuration of provider credentials.
+### [VoxArcana Studio](https://github.com/ferreis/voxarcana) · Local AI & speech applications
 
-**Stack:** JavaScript/TypeScript · VS Code Extension API · Git · Ollama · LLM integrations
+Local voice narration studio with a **Vue 3 frontend and FastAPI backend**. Organizes character voices, analyzes RPG scenes, and generates audio through local speech models. Includes browser-based controls, a voice library, and automated tests.
 
-### [Pasi Mandarim](https://github.com/ferreis/PasiMandarim) · Accessible educational software
+**Stack:** Vue 3 · TypeScript · Python · FastAPI · Ollama · local TTS · Playwright
 
-Free, open-source web learning tool for Mandarin pronunciation, designed for Brazilian Portuguese speakers. Includes phonetic guidance, listening exercises, flashcards, tone practice, and local learning history.
+### [Cetacean Detection Research Lab](https://github.com/ferreis/TCC_Code_Test) · Computer vision & ML experimentation
 
-**Engineering highlights:** accessible learning flows, browser-based audio, structured educational data, and end-to-end tests.
+Academic research prototype for finding, grouping, segmenting, and training models on aerial cetacean imagery. Documents workflows with **SAM, DINOv2, HDBSCAN, YOLO**, specialist **LoRA** experiments, and comparable full fine-tuning configurations. Supports local/Colab experiment profiles and Streamlit-based workflows.
+
+**Stack:** Python · PyTorch ecosystem · YOLO · SAM · DINOv2 · HDBSCAN · Streamlit · Google Colab
+
+### [OctoFlow](https://github.com/ferreis/OctoFlow) · Full-stack architecture & authentication
+
+Modular application for work organization, GitHub integrations, and personal finance. Uses **Vue 3 host and remote frontends via Module Federation** and a **Symfony API**, backed by PostgreSQL and Redis.
+
+**Highlights:** JWT sessions, rotating refresh tokens, Argon2id password hashing, Google OAuth, CSRF protection, and automated testing tools.
+
+**Stack:** Vue 3 · Pinia · Symfony · PHP · PostgreSQL · Redis · Docker · Nginx
+
+### [AI Commit](https://github.com/ferreis/ai-commit) · Developer tooling & AI integration
+
+VS Code extension generating Brazilian Portuguese **Conventional Commit** messages from staged or working-tree Git changes. Supports **Ollama**, configurable providers, diagnostics, and user review before commits.
+
+**Stack:** VS Code Extension API · JavaScript/TypeScript · Git · LLM integrations
+
+### [Pasi Mandarim](https://github.com/ferreis/PasiMandarim) · Education & accessible interfaces
+
+Open-source Mandarin pronunciation learning tool built for Brazilian Portuguese speakers, including audio comparison, flashcards, tonal exercises, pronunciation guidance, and browser-based progress data.
 
 **Stack:** Vue 3 · TypeScript · Vite · Playwright
 
 ### [Photo Match FaceNet](https://github.com/ferreis/Univali_Tb3_Inteligencia_Artificial_2) · Applied computer vision
 
-A local academic prototype that compares a selfie with a document photo using **face detection and facial embeddings**. Provides similarity measurements and a visual comparison report.
-
-**Engineering highlights:** image capture, preprocessing, MTCNN detection, FaceNet embeddings, and threshold-based matching. A study prototype, **not a production identity-verification service**.
+Local academic prototype comparing a selfie with a document image through face detection and facial embeddings. Offers similarity metrics and visual feedback. **Educational experiment, not production identity verification.**
 
 **Stack:** Python · TensorFlow · MTCNN · FaceNet · OpenCV
 
@@ -78,13 +96,13 @@ A local academic prototype that compares a selfie with a document photo using **
 
 | Area | Technologies and practices |
 | --- | --- |
-| **Languages** | PHP, JavaScript, TypeScript, Python, Java, Dart, C, C++, SQL |
+| **Languages** | PHP, JavaScript, TypeScript, Python, Java, Dart, C, C++, Rust, SQL |
 | **Frontend** | Vue 3, Pinia, Vite, Tailwind CSS, HTML, CSS, component-based architecture |
-| **Backend & APIs** | Symfony, PHP APIs, Ruby on Rails, REST APIs, authentication, API integrations |
+| **Backend & APIs** | Symfony, FastAPI, Ruby on Rails, Drogon, Hyper, REST APIs, authentication, API integrations |
 | **Data** | PostgreSQL, SQLite, Redis, relational modeling, SQL |
 | **Infrastructure** | Linux, Docker, Docker Compose, Nginx, Git, GitHub |
 | **Quality & security** | Playwright, PHPUnit, automated testing, JWT, OAuth, Argon2id, secure session design |
-| **AI & automation** | Python, TensorFlow, OpenCV, FaceNet, Ollama, local LLM workflows |
+| **AI & automation** | Python, TensorFlow, OpenCV, FaceNet, YOLO, SAM, DINOv2, Ollama, local LLM and TTS workflows |
 | **Other domains** | Flutter, distributed/multi-agent systems, algorithms, data structures, operating systems |
 
 <details>
@@ -112,7 +130,7 @@ Trabalho com desenvolvimento web, APIs, arquitetura de software e integração d
 
 Meu foco é construir soluções úteis, com código organizado, testes, documentação e atenção à segurança. Os projetos acima mostram diferentes áreas em que aplico esses conhecimentos, com repositórios públicos para avaliação técnica.
 
-**Áreas de atuação e interesse:** desenvolvimento full-stack, frontend, backend, engenharia de software, ferramentas para desenvolvedores e aplicações de IA.
+**Projetos em destaque:** [NexoLab](https://github.com/ferreis/NexoLab), [Boilerplate Projects](https://github.com/ferreis/Boilerplate_Projects), [VoxArcana Studio](https://github.com/ferreis/voxarcana) e [laboratório de pesquisa em visão computacional](https://github.com/ferreis/TCC_Code_Test).\n\n**Áreas de atuação e interesse:** desenvolvimento full-stack, frontend, backend, engenharia de software, modelagem de dados, ferramentas para desenvolvedores e aplicações de IA.
 
 ---
 
